@@ -10,6 +10,8 @@
   position: sticky;
   top: 0;
   background: white;
+  color: black;
+  z-index: 999;
 
   .left {
     display: flex;
